@@ -23,8 +23,8 @@
 <br>[Day 3 Quiz](https://colab.research.google.com/github/Milan-Chicago/Introduction-to-Python/blob/main/Day%203/day3Quiz.ipynb)
 <br>[Day 3 Quiz Answers](https://colab.research.google.com/github/Milan-Chicago/Introduction-to-Python/blob/main/Day%203/day3Quiz-answers.ipynb)
 
-<br>[BONUS LEVEL Lecture](https://colab.research.google.com/github/https://github.com/Milan-Chicago/Introduction-to-Python/blob/main/Day%204/BONUS_LEVEL.ipynb)
-<br>[BONUS LEVEL Lecture Answers](https://colab.research.google.com/github/Milan-Chicago/Introduction-to-Python/blob/main/Day%204/BONUS_LEVEL-answers.ipynb)
+<br>[Day 4 BONUS LEVEL Lecture](https://colab.research.google.com/github/https://github.com/Milan-Chicago/Introduction-to-Python/blob/main/Day%204/BONUS_LEVEL.ipynb)
+<br>[Day 4 BONUS LEVEL Lecture Answers](https://colab.research.google.com/github/Milan-Chicago/Introduction-to-Python/blob/main/Day%204/BONUS_LEVEL-answers.ipynb)
 
 ## Week 2 Working with Data 
 
@@ -33,6 +33,12 @@
 <br>[Day 5 Pandas2 - Renaming columns, dropping rows and columns, sorting data, and saving DataFrames; Data aggregation; Basic plotting](https://colab.research.google.com/github/https://github.com/Milan-Chicago/Introduction-to-Python/blob/main/Day%205/pandas2.ipynb)
 <br>[Day 5 Pandas2 Answers](https://colab.research.google.com/github/https://github.com/Milan-Chicago/Introduction-to-Python/blob/main/Day%205/pandas2-Answers.ipynb)
 <br>[Day 5 Pandas Bonus - Working with Missing Data](https://colab.research.google.com/github/https://github.com/Milan-Chicago/Introduction-to-Python/blob/main/Day%205%20Pandas/pandasBonus.ipynb)
+
+<br>[Day 6 Numpy ]
+<br>[Day 7 Data Viz with Matplotlib]
+
+<br>[Day 8 Automation - Intermediate]
+
 
 ## Week 3 Machine Learning Basics with Scikit-learn
 <br>[Day 1 Overview of Scikit-learn
