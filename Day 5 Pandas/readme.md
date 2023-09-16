@@ -1,4 +1,4 @@
-Materials from the three-hour workshop.
+Three-hour workshop materials.
 
 
 #### Links to Notebooks on Google Colab (in the cloud):
