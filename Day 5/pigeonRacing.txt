@@ -1,0 +1,35 @@
+Position	Avg Unirate	Name	Racing Pigeon	Color	Sex	Qualifying Race Miles	Average Birdage
+1	0.26%	Dean Schultz	751 AU 18 PURP	BB	F	"469, 469"	612
+2	1.08%	Dick Fassio	9027 AU 19 SLI	BBAR	F	"579, 500"	139
+3	1.42%	Gary Mosher	32826 AU 17 AA	BKC	F	"494, 539"	103
+4	2.21%	Todd Bartholomew	35624 AU 17 JEDD	BC	F	"547, 468"	226
+5	2.61%	Dustin Maxfield	3322 AU 17 OGN	BB	M	"462, 462"	171
+6	3.11%	Dustin Maxfield	9048 AU 19 FDY		F	"462, 541"	226
+7	3.26%	Thomas Erdner	12014 AU 19 FOYS	BB	F	"553, 470"	
+8	3.27%	Dean Schultz	1707 AU 17 SCHU	BC	F	"469, 469"	526
+9	3.31%	Rodney Desrosiers	1608 AU 17 SC		F	"563, 459"	46
+10	3.44%	Dave Tracey	324 AU 17 GCM	BECA	F	"535, 537"	72
+11	3.69%	Gary Mosher	47663 AU 17 AA	BLS	M	"539, 494"	103
+12	3.73%	Matt Badzinski	29245 AU 16 AA	BB	F	"539, 478"	209
+13	4.68%	Dennis Heidenreich	1127 AU 18 UVI		F	"594, 515"	85
+14	4.70%	Butch Smith	313 AU 18 ER	BLK	F	"505, 593"	32
+15	4.76%	Gordon Smith	4592 AU 19 SMIT	BCHK	F	"516, 595"	91
+16	5.49%	Rodney Desrosiers	1638 AU 17 SC	BC	F	"563, 459"	46
+17	5.88%	Kevin Coey	349 AU 17 BUCK	BLCH	F	"536, 540"	72
+18	6.07%	Joe Bevington	15377 AU 19 AA	DC	F	"488, 572"	353
+19	6.47%	Thomas Erdner	12011 AU 19 FOYS	BB	F	"553, 470"	
+20	6.78%	Keith Delpozzo	913 AU 16 SRI		M	"466, 567"	31
+21	6.81%	Dustin Maxfield	7800 AU 19 OGN		F	"541, 462"	
+22	7.13%	Terry Lynn	8 AU 16 GCM	BB	F	"513, 518"	49
+23	8.01%	Gary Mosher	32882 AU 17 AA	BLS	M	"539, 494"	103
+24	8.07%	Alven Gines	9833 AU 19 SLI	BBAR	F	"584, 505"	123
+25	8.11%	Lek Dhiraprasiddhi	161 AU 15 BUCK	DCWF	F	"520, 506"	49
+26	8.64%	Steve Cox	91 AU 18 PCO	BLCH	F	"536, 539"	72
+27	8.81%	Edward King	77692 AU 16 ARPU		M	"632, 538"	76
+28	8.89%	Larry Mitchell	1955 AU 19 HOTR	BB	M	"584, 505"	123
+29	8.99%	Larry Sidwell	9760 AU 19 SLI		M	"506, 585"	
+30	9.53%	Rick Cline	9041 AU 19 MM	DCP	M	"466, 541"	42
+31	9.65%	Joe Bevington	25221 AU 18 ARPU	BC	F	"488, 572"	353
+32	9.67%	Todd Bartholomew	7005 AU 19 OGN	BC	F	"468, 469"	139
+33	9.69%	Curt Templeton	784 AU 17 POLK	BBAR	F	"462, 462"	
+34	9.86%	Dave Tracey	34 AU 18 PCO	BB	M	"537, 535"	72
