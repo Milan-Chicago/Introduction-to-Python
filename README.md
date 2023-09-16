@@ -24,3 +24,9 @@ CCC Intro to Python for MLU
 
 <br>[BONUS LEVEL Lecture](https://colab.research.google.com/github/https://github.com/Milan-Chicago/Introduction-to-Python/blob/main/Day%204/BONUS_LEVEL.ipynb)
 <br>[BONUS LEVEL Lecture Answers](https://colab.research.google.com/github/Milan-Chicago/Introduction-to-Python/blob/main/Day%204/BONUS_LEVEL-answers.ipynb)
+
+
+<br>[Day 5 Pandas](https://colab.research.google.com/github/Milan-Chicago/Introduction-to-Python/blob/main/Day%205/pandas.ipynb)
+<br>[Day 5 Pandas Answers](https://colab.research.google.com/github/https://github.com/Milan-Chicago/Introduction-to-Python/blob/main/Day%205/pandas-Answers.ipynb)
+<br>[Day 5 Pandas2](https://colab.research.google.com/github/https://github.com/Milan-Chicago/Introduction-to-Python/blob/main/Day%205/pandas2.ipynb)
+<br>[Day 5 Pandas2 Answers](https://colab.research.google.com/github/https://github.com/Milan-Chicago/Introduction-to-Python/blob/main/Day%205/pandas2-Answers.ipynb)
