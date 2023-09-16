@@ -35,13 +35,14 @@
 <br>[Day 5 Pandas Bonus - Working with Missing Data](https://colab.research.google.com/github/https://github.com/Milan-Chicago/Introduction-to-Python/blob/main/Day%205%20Pandas/pandasBonus.ipynb)
 
 <br>[Day 6 Numpy ]
+
 <br>[Day 7 Data Viz with Matplotlib]
 
 <br>[Day 8 Automation - Intermediate]
 
 
 ## Week 3 Machine Learning Basics with Scikit-learn
-<br>[Day 1 Overview of Scikit-learn
-<br>[Day 2 Unsupervised learning: Clustering models
-<br>[Day 3 Data cleaning / transformation
-<br>[Day 4 & 5 Saturday Model selection
+<br>[Day 9 Overview of Scikit-learn]
+<br>[Day 10 Unsupervised learning: Clustering models]
+<br>[Day 11 Data cleaning / transformation]
+<br>[Day 12 Model selection]
