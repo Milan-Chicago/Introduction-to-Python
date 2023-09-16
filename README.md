@@ -34,4 +34,8 @@ CCC Intro to Python for MLU
 <br>[Day 5 Pandas2](https://colab.research.google.com/github/https://github.com/Milan-Chicago/Introduction-to-Python/blob/main/Day%205/pandas2.ipynb)
 <br>[Day 5 Pandas2 Answers](https://colab.research.google.com/github/https://github.com/Milan-Chicago/Introduction-to-Python/blob/main/Day%205/pandas2-Answers.ipynb)
 
-## Week 3 Machine Learning
+## Week 3 Machine Learning Basics with Scikit-learn
+<br>[Day 1 Overview of Scikit-learn
+<br>[Day 2 Unsupervised learning: Clustering models
+<br>[Day 3 Data cleaning / transformation
+<br>[Day 4 & 5 Saturday Model selection
