@@ -1,9 +1,8 @@
 # Introduction-to-Python
-CCC Intro to Python for MLU
+## City Colleges of Chicago Intro to Python for AWS Machine Learning University Program Fall 2023
 
 #### <br><br>To download the materials to your own computer, click on the green Code button and choose Download ZIP. Unzip the folder. Open Jupyter Lab and navigate to the folder you downloaded. Start with the first link below. 
 #### <br><br>Links to open the notebooks on the cloud (Google Colab):
-
 
 <br>[Jupyter Notebook](https://colab.research.google.com/github/Milan-Chicago/Introduction-to-Python/blob/main/Day%201/MLU-JUPYTER-LAB/MLU-JUPYTER-LAB.ipynb)
 
